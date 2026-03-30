@@ -1,0 +1,5 @@
+{
+  "name": "CardioCompanion",
+  "description": "A cardiology companion app providing diagnostic guidelines, echo/imaging info, labs, and pharmacology.",
+  "requestFramePermissions": []
+}
